@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "practicumpoint",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6348" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Airport": "BLA" }, "geometry": { "type": "Point", "coordinates": [ 334582.675069257267751, 4692580.079700976610184 ] } }
+]
+}
